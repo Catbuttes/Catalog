@@ -1,0 +1,17 @@
+{
+    "title": "This is the page title",
+    "files": [
+        {
+            "title": "Doc 1",
+            "url": "doc.html"
+        },
+        {
+            "title": "Doc 2",
+            "url": "doc2.html"
+        }
+    ],
+    "directories": [
+        "dir1",
+        "dir2"
+    ]
+}
