@@ -1,17 +1,20 @@
 {
-    "title": "This is the page title",
+    "title": "This is a list of tools that might be useful",
     "files": [
         {
-            "title": "Doc 1",
-            "url": "doc.html"
+            "title": "Student Lookup",
+            "url": "StudentLookup.html"
         },
         {
-            "title": "Doc 2",
-            "url": "doc2.html"
+            "title": "Timetable Events Lookup",
+            "url": "TimetableSearch.html"
+        },
+        {
+            "title": "Timetable Events with (potential) Issues",
+            "url": "TimetableIssues.html?list=TT_MISMATCH"
         }
     ],
     "directories": [
-        "dir1",
-        "dir2"
+        ""
     ]
 }
